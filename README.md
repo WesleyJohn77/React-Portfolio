@@ -7,7 +7,7 @@ Welcome to my portfolio of React projects! In this repository, you'll find a col
 ## 🚀 Featured Projects
 
 <details>
-  <summary><b>Project 1: Weather App</b></summary>
+  <summary><b>Project 1: WeatherApp 🌦️</b></summary>
   
   Brief description of the project. Include the technologies used and an overview of what the project does. You can include screenshots or animated gifs to showcase the user interface if possible.
 
