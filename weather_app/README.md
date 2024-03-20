@@ -37,7 +37,6 @@ Welcome to WeatherApp! A React web application that allows you to check the curr
 
 ## Screenshots 📸
 
-![WeatherApp Screenshot]
 ![weatherApp](https://github.com/WesleyJohn77/React-Portfolio/assets/128783635/4aa466e2-7cc3-468b-b528-5cd5cb059710)
 
 
