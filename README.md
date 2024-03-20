@@ -1,6 +1,6 @@
 # Wesley's React Projects Portfolio
 
-Welcome to my portfolio of React projects! In this repository, you'll find a collection of projects I've developed using React, a popular JavaScript library for building interactive and dynamic user interfaces.
+Welcome to my portfolio of React projects! In this repository, you'll find a collection of projects I've developed using React, a popular JavaScript framework for building interactive and dynamic user interfaces.
 
 ---
 
