@@ -11,7 +11,7 @@ Welcome to my portfolio of React projects! In this repository, you'll find a col
   
   Brief description of the project. Include the technologies used and an overview of what the project does. You can include screenshots or animated gifs to showcase the user interface if possible.
 
-  [View Project]([project_link](https://github.com/WesleyJohn77/React-Portfolio/tree/main/weather_app))
+  [View Project](https://github.com/WesleyJohn77/React-Portfolio/tree/main/weather_app)
 </details>
 
 <details>
